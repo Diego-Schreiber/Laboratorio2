@@ -1,4 +1,4 @@
-publi class Calculatodora {
+publi class Calculadora {
   public int add(int a, int b){
 	return a+b;	
   }
