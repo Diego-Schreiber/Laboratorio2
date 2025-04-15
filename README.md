@@ -1,9 +1,7 @@
-#Laboratorio2
+# Laboratorio 2
 
-##Miembros
+## Miembros
 
--Renzo Geomar Mamani Quispe
-
--Sergio Emilio Estrada Arce
-
--Diego Hans Schreiber Landeo
+- Renzo Geomar Mamani Quispe  
+- Sergio Emilio Estrada Arce  
+- Diego Hans Schreiber Landeo
