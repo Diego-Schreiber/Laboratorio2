@@ -2,7 +2,7 @@ package laboratorio2;
 import java.util.*;
 public class Laboratorio2 {
     public static void main(String[] args) {
-        Calculadora calculator=new Calculadora();
+        calculadora calculator=new Calculadora();
         Scanner scan = new Scanner (System.in);
         System.out.println ("Vamos a probar la calculadora con dos enteros, escriba el primero y luego el segundo");
         int num1 = scan.nextInt();
